@@ -140,9 +140,7 @@ Run the entire project as a web application and provide input. 
 
 Aditya Bisht – axb9652@rit.edu
 
-Karan Kothari – kdk2612@rit.edu
 
-Maitri Tolia – mjt5429@rit.edu
 
 ----------------------------------------------------------------------------------------------------------------------------                
 
